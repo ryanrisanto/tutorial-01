@@ -1,3 +1,5 @@
 NPM : 1706106961
 
 Nama : Ryan Ardhy Risanto
+
+Jurusan : Sistem Informasi Ekstensi
